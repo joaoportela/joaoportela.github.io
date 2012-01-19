@@ -1,3 +1,5 @@
+html {
+}
 a:link, a:visited {
     text-decoration:none;
     color: #00E;
@@ -6,12 +8,19 @@ a:hover {
 }
 
 #greeting {
-    text-align:center;
+    width:320px;
+    margin:0px auto;
     position:relative;
+}
+
+#greeting pre {
+    background-color: #F4F4FE;
+    font-family: 'Lucida Console', Monaco, monospace;
 }
 
 #explanation {
     font-size: 8pt;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
     position:absolute;
     bottom:0;
 }
