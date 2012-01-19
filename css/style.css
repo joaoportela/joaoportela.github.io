@@ -1,13 +1,18 @@
-body {
-    background-color: #000000;
-    color: #FFFFFF;
-    text-align:center;
-}
-
 a:link, a:visited {
- color: #FFFFFF;
+    text-decoration:none;
+    color: #00E;
 }
 a:hover {
- color: #DDDDDD;
+}
+
+#greeting {
+    text-align:center;
+    position:relative;
+}
+
+#explanation {
+    font-size: 8pt;
+    position:absolute;
+    bottom:0;
 }
 
