@@ -1,0 +1,113 @@
+Detectives de milagres
+======================
+Detectives de milagres é um 'roleplaying game' em que os 'player-charaters'
+investigam alegados fenómenos paranormais e procuram explicações para os
+mesmos de acordo com as experiências que conduzem 'in-game'.
+
+"Olha aqui este jogo que eu inventei:
+Um de nós descreve o fenómeno e os outros dois enumeram hipóteses e fazem testes (perguntas). O que acham?"
+
+Esta página contém os logs das aventuras. Este jogo joga-se por email - o que é capaz de se notar pela forma como estão escritos os logs.
+
+Aventura 1
+----------
+JP - João Portela, GM
+RT - Rui Teixeira, Investigador
+TP - Telmo Pinto, Investigador
+
+JP
+--
+Uma mulher na Austrália foi diagnosticada com cataratas e o médico disse que
+ela tinha de ser operada. A congregação dela rezou para que ela fosse curada.
+
+Uma semana depois a mulher volta ao médico e repete os testes e o médico
+constata que ela já não tem cataratas.
+
+A vossa missão, caso escolham aceitá-la, será investigar este acontecimento.
+
+RT
+--
+Eu candidato-me para um fundo de investigação na Australian National
+University Medical School (ANUMS) tema - MetaAnálise de Caso de
+Remissão expontanea em doenças oftomologicas.
+
+RT
+--
+Dedicar meses de trabalho talvez não seja muito boa ideia para uma
+abordagem inicial.
+
+Posso ser rejeitado sem muita humilhação e em vez disso ter uma
+entrevista com o médico dela?
+
+JP
+--
+[META] - já respondo à candidatura do rui, só quero esclarecer mais umas coisas.
+
+O universo onde esta aventura se passa é essencialmente igual ao nosso até ao momento em que começa a aventura, a partir daí eu posso postular qualquer fenómeno físico ou whatever que deseje e tentarei ser sempre o mais coerente e consistente possível nos fenómenos.
+
+No fim de cada aventura o universo faz reset para o estado inicial para não termos de estar a pensar como as estes fenómenos novos interagem uns com os outros etc...
+
+Vou tentar adicionar flavor sempre que possível para fazer a história interessante mas é possível que falhe redondamente ;)
+
+JP
+--
+A vossa filiação actual na categoria de funcionários ao Centro de Investigação
+de Fenómenos Aparentemente Paranormais Mas Que ao Contrário de Todos os Centros
+com Nomes Semelhantes Conduz Inqueritos Sérios e Racionais Em Vez de Aceitar à
+Partida Explicações Paranormais Infundadas (CIFAPQCTCNSCISRVAPEPI) não permite
+a candidatura a bolsas de investigação, mas providencia fundos para conduzirem
+as investigações de forma independente.
+
+Vou assumir que viajam os 2 para a austrália para falar com o médico e com a
+mulher.
+
+NEW RULE: Nesta aventura vamos assumir que as pessoas não mentem mas que podem
+estar enganadas relativamente à sua interpretação dos factos, pode ser?
+(noutras aventuras podemos ou não ter esta regra)
+
+TP
+--
+:D Estou a curtir! Podes continuar a liderar a investigação, Rui.
+
+RT
+--
+Quero ir falar com a mulher. Iniciar um dialogo e estar atento à mulher.
+
+"Senhora Meireles, eu sou do CIFA...PEPI e estou muito interessado em saber a
+sua história. O que me pode contar?"
+
+JP
+--
+"Olhe senhor, isto foi um milagre! Deus ouviu as minhas preces e as da minha
+congregação e curou-me desta malícia. Louvado seja Deus!"
+
+TP
+--
+Quero perguntar o nome do médico de família dela. Quero perguntar ao médico que
+doença ela tinha.
+Preciso de investigar a doença para gerar hipóteses e testes e ver se arranjo
+pessoas nas mesma condições para servirem de cobaia.
+
+RT
+--
+Ela usa oculos? Parece ver bem?
+
+JP
+--
+Doutor Alberto (o médico):
+- "Tal como eu disse, ela foi diagnosticada com cataratas. Nunca tinha tido
+  problemas de visão anteriormente e uma semana depois todos os sintomas
+  desapareceram."
+- "Eu sei que não perguntaram mas parece-me um caso perfeitamente normal (se
+  bem que extremamente raro) de remissão. Não estamos sequer a falar de um
+  fenómeno exclusivo nos seres humanos, é algo que até em ratos de laboratório
+  acontece."
+
+RT
+--
+Ok, bora falar com o lider da congregação dela. Ver o que ele/ela acha.
+
+JP
+--
+"Só sou líder desta congregação à cerca de dois anos. Nunca tínhamos rezado para curar alguma pessoa de alguma doença em específico até ao caso da senhora Meireles. Estou muito feliz pelo senhor Deus nosso senhor a ter curado, foi um milagre motivado pela fé."
+
