@@ -1,13 +1,14 @@
 Detectives de milagres
 ======================
 Detectives de milagres é um 'roleplaying game' em que os 'player-charaters'
-investigam alegados fenómenos paranormais e procuram explicações para os
-mesmos de acordo com as experiências que conduzem 'in-game'.
+investigam alegados fenómenos paranormais e procuram explicações para os mesmos
+de acordo com as experiências que conduzem 'in-game'.
 
-"Olha aqui este jogo que eu inventei:
-Um de nós descreve o fenómeno e os outros dois enumeram hipóteses e fazem testes (perguntas). O que acham?"
+"Olha aqui este jogo que eu inventei: Um de nós descreve o fenómeno e os outros
+dois enumeram hipóteses e fazem testes (perguntas). O que acham?"
 
-Esta página contém os logs das aventuras. Este jogo joga-se por email - o que é capaz de se notar pela forma como estão escritos os logs.
+Esta página contém os logs das aventuras. Este jogo joga-se por email - o que é
+capaz de se notar pela forma como estão escritos os logs.
 
 Aventura 1
 ----------
@@ -43,11 +44,17 @@ JP
 --
 [META] - já respondo à candidatura do rui, só quero esclarecer mais umas coisas.
 
-O universo onde esta aventura se passa é essencialmente igual ao nosso até ao momento em que começa a aventura, a partir daí eu posso postular qualquer fenómeno físico ou whatever que deseje e tentarei ser sempre o mais coerente e consistente possível nos fenómenos.
+O universo onde esta aventura se passa é essencialmente igual ao nosso até ao
+momento em que começa a aventura, a partir daí eu posso postular qualquer
+fenómeno físico ou whatever que deseje e tentarei ser sempre o mais coerente e
+consistente possível nos fenómenos.
 
-No fim de cada aventura o universo faz reset para o estado inicial para não termos de estar a pensar como as estes fenómenos novos interagem uns com os outros etc...
+No fim de cada aventura o universo faz reset para o estado inicial para não
+termos de estar a pensar como as estes fenómenos novos interagem uns com os
+outros etc...
 
-Vou tentar adicionar flavor sempre que possível para fazer a história interessante mas é possível que falhe redondamente ;)
+Vou tentar adicionar flavor sempre que possível para fazer a história
+interessante mas é possível que falhe redondamente ;)
 
 JP
 --
@@ -109,5 +116,8 @@ Ok, bora falar com o lider da congregação dela. Ver o que ele/ela acha.
 
 JP
 --
-"Só sou líder desta congregação à cerca de dois anos. Nunca tínhamos rezado para curar alguma pessoa de alguma doença em específico até ao caso da senhora Meireles. Estou muito feliz pelo senhor Deus nosso senhor a ter curado, foi um milagre motivado pela fé."
+"Só sou líder desta congregação à cerca de dois anos. Nunca tínhamos rezado
+para curar alguma pessoa de alguma doença em específico até ao caso da senhora
+Meireles. Estou muito feliz pelo senhor Deus nosso senhor a ter curado, foi um
+milagre motivado pela fé."
 
