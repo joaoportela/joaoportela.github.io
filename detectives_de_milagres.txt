@@ -166,14 +166,18 @@ fizeram e onde )
 
 RT
 --
-O meu objectivo é converter em factos todas as observações com p(1)
+O meu objectivo é validar ou invalidar observações para que possam ser tomadas
+como factos.
 as questão foram surgindo à medida que escrevi
 
 JP
 --
-Por mim funciona. A natureza não tem opinião sobre como devem conduzir uma investigação e o CIFAPQCTCNSCISRVAPEPI oferece alguma latitude aos seus investigadores.
+Por mim funciona. A natureza não tem opinião sobre como devem conduzir uma
+investigação e o CIFAPQCTCNSCISRVAPEPI oferece alguma latitude aos seus
+investigadores.
 
-Só estava à espera de mais input e discussão entre os 2 investigadores. Parece que estão sempre de acordo com tudo.
+Só estava à espera de mais input e discussão entre os 2 investigadores. Parece
+que estão sempre de acordo com tudo.
 
 TP
 --
@@ -185,5 +189,63 @@ Se isto fosse um forum, guardava isso na minha assinatura
 
 TP
 --
-Ahahahahahahahahah xD a minha intenção não era a que isso soasse tao "forte", mas lolei grosso.
+Ahahahahahahahahah xD a minha intenção não era a que isso soasse tao "forte",
+mas lolei grosso.
 
+JP
+--
+De: CIFAPQCTCNSCISRVAPEPI
+Para: Investigadores de "O curioso caso da mãe do Sam".
+
+O CIFAPQCTCNSCISRVAPEPI lembra o investigardor Rui Teixeira que as assunções
+basicas da ciência estão implicitas.  Não havendo assim a necessidade de
+discutir a hipotese 0.
+
+Gostariamos que explicasse o que quer dizer com 'observações com p(1)', quando
+diz: ' meu objectivo é converter em factos todas as observações com p(1)'
+
+Continuação de um bom trabalho,
+CIFAPQCTCNSCISRVAPEPI
+
+RT
+--
+Por favor trocar por. Validar ou invalidar observações para que possam ser
+tomadas como factos. ( para um evento A, p(A)=1 ou p(A)=0 )
+
+JP
+--
+> - Sobre a doença:
+>  - quando ficou "doente"?
+Doutor Alberto: Assumindo que não foi um falso positivo, tudo indica que terá
+sido entre as consultas anuais.
+>  - quando foi diagnosticada?
+Doutor Alberto: 25 Agosto 2012.
+>  - quando deixou de estar doente?
+Doutor Alberto: Assumindo que não foi um falso positivo, tudo indica que terá
+sido entre a consulta de 25 de Agosto e 1 de Setembro. Depois de 1 de Setembro
+realizamos mais testes que confirmam a remissão.
+>  - quando foi confirmado?
+Doutor Alberto: 1 de Setembro.
+>  - taxa de remissão?
+Doutor Alberto: 100%
+>   - natural? supra-natural?
+Doutor Alberto: Não tenho razões para acreditar que foi sobrenatural. Mas
+suponho que é esse o vosso trabalho...
+
+> - Sobre o milagre:
+>  - quando foi tomado conhecimento da doença?
+Padre Fonseca: "A dona Maria informou-nos da sua condição no próprio dia do
+diagnóstico."
+>  - quando foi tomada a decisão de rezar?, pk?, pk n antes?
+Padre Fonseca: "Nunca tinhamos rezado a pedir pelos nosso párocos antes, a
+nossa congregação é relativamente recente e nunca nos tinham pedido tal coisa.
+No caso da dona Maria decidimos rezar para a ajudar e como ela é muito querida
+da comunidade toda a gente se juntou para a ajudar."
+>  - quando começaram?
+Padre Fonseca: "Nas missas de fim de semana pedi aos nossos párocos para
+ocuparmos parte do nosso tempo de missa a rezar pela cura da dona Maria."
+>  - o que foi "feito"? ( quantas pessoas, durante quanto tempo, o que
+> fizeram e onde )
+Padre Fonseca: "Foi na missa de sábado à noite e no domingo de manha, num total
+de cerca de 100 pessoas. Durante cada uma das missas dedicamos 10 minutos de
+reza pela nossa amiga dona Maria."
