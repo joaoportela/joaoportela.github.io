@@ -12,4 +12,4 @@ internet. You should expect software development related posts here.
 
 Please feel free to take a look around. I hope you find something interesting
 here. If you want to copy something from this site, the source code can be
-found [here](https://github.com/joaoportela/joaoportela.github.com)
+found [here](https://github.com/joaoportela/joaoportela.github.com).
