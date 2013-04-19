@@ -1,9 +1,11 @@
-markdown: rdiscount
+#markdown: rdiscount
+markdown: kramdown
 pygments: true
 permalink: /posts/:title
 auto: true
 rdiscount:
   extensions: [smart]
+usemathml: true
 title : João Portela
 production_url : http://joaoportela.net
 description: "Public website and blog of João Portela."
