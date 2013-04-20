@@ -8,6 +8,7 @@ title : João Portela
 production_url : http://joaoportela.net
 description: "Public website and blog of João Portela."
 disqus_shortname: joaoportela-site 
+analytics:
 author :
   name : João Portela
   github : joaoportela
