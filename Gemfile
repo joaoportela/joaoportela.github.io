@@ -1,4 +1,4 @@
 source :rubygems
 
-gem 'rdiscount'
+gem 'kramdown'
 gem 'jekyll'
