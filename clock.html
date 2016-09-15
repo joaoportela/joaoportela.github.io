@@ -1,14 +1,36 @@
 ---
-layout: layout
+layout: null
 title: "Clock"
 ---
 
-<section class="content">
-  <a href="http://time.is/Porto" id="time_is_link" rel="nofollow" style="font-size:36px;color:LightGrey;background:Black">Time in Porto:</a>
-  <span id="Porto_z714" style="font-size:36px;color:LightGrey;background:Black"></span>
-  <script src="http://widget.time.is/t.js"></script>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<!--
+-->
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>{{ page.title }}</title>
+
+  <meta name="author" content="{{ site.author.name }}" />
+  <meta name="description" content="{{ site.description }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link href="/css/up.min.css" rel="stylesheet">
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+
+  <!--[if lt IE 9]>
+  <link href="/css/font-awesome-ie7.css" rel="stylesheet">
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <link rel="apple-touch-icon" href="/apple-touch-icon.jpg" />
+</head>
+
+<body style="font-size:36px;color:LightGrey;background:Black">
+  <a href="http://time.is/Porto" style="color:LightGrey;" id="time_is_link" rel="nofollow">Time in Porto:</a>
+  <span id="Porto_z714"></span>
+  <script src="//widget.time.is/t.js"></script>
   <script>
     time_is_widget.init({Porto_z714:{}});
   </script>
-</section>
-
+</body>
+</html>
