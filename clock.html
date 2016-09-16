@@ -25,12 +25,20 @@ title: "Clock"
   <link rel="apple-touch-icon" href="/apple-touch-icon.jpg" />
 </head>
 
-<body style="font-size:96px;color:LightGrey;background:Black">
+<body style="font-size:96px;color:grey;background:transparent">
   <a href="http://time.is/Porto" style="color:LightGrey;" id="time_is_link" rel="nofollow"></a>
   <span id="Porto_z714" style="display:table;margin:0 auto"></span>
   <script src="//widget.time.is/t.js"></script>
   <script>
     time_is_widget.init({Porto_z714:{}});
+  </script>
+  <script>
+    // crazy hack to change the foreground color.
+    var fgColor = window.location.search.substring(1);
+    if(fgColor) {
+      var elem = document.getElementById("Porto_z714");
+      elem.style.color = fgColor;
+    }
   </script>
 </body>
 </html>
