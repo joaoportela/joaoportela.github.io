@@ -1,6 +1,6 @@
 #markdown: rdiscount
 markdown: kramdown
-pygments: true
+highlighter: rouge
 permalink: /posts/:title
 auto: true
 rdiscount:
