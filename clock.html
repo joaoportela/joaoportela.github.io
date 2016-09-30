@@ -59,23 +59,29 @@ title: "Clock"
 
   <script src="//widget.time.is/t.js"></script>
   <script>
-    time_is_widget.init({Porto_z714:{}});
-  </script>
-  <script>
     // crazy hack to change some options.
-    // syntax: uri.html?[fgColor],[fontSize]
+    // syntax: uri.html?[fgColor],[fontSize],[clockStyle]
 
     var elem = document.getElementById("Porto_z714");
 
     var str = window.location.search.substring(1);
     values = str.split(",");
+
     var fgColor = values[0];
     if(fgColor) {
       elem.style.color = fgColor;
     }
+
     var fontSize = values[1];
     if(fontSize) {
       elem.style.fontSize = fontSize;
+    }
+
+    var clockStyle = values[2];
+    if(clockStyle === "1") {
+      time_is_widget.init({Porto_z714:{time_format:"hours:minutes"}});
+    } else {
+      time_is_widget.init({Porto_z714:{}});
     }
   </script>
 </body>
