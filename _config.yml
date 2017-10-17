@@ -7,9 +7,9 @@ rdiscount:
   extensions: [smart]
 usemathml: true
 title : João Portela
-production_url : http://joaoportela.net
+production_url : https://joaoportela.net
 description: "Public website and blog of João Portela."
-disqus_shortname: joaoportela-site 
+disqus_shortname: joaoportela-site
 analytics:
 author :
   name : João Portela
