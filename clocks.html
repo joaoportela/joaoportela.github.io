@@ -1,0 +1,76 @@
+---
+layout: null
+title: "Clocks"
+---
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>{{ page.title }}</title>
+
+  <meta name="author" content="{{ site.author.name }}" />
+  <meta name="description" content="{{ site.description }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+      font-size:96px;
+      color:grey;
+      background:transparent;
+    }
+
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    .clocks_container {
+      width: 100%;
+      height: 100%;
+      display: table;
+      text-align: center;
+      list-style-type: none;
+    }
+    .clocks_container > .child {
+      display: table-cell;
+      vertical-align: middle;
+    }
+  </style>
+
+  <!--[if lt IE 9]>
+  <link href="/css/font-awesome-ie7.css" rel="stylesheet">
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <link rel="apple-touch-icon" href="/apple-touch-icon.jpg" />
+</head>
+
+<body>
+  <a style="visibility:collapse" href="http://time.is/Porto" id="time_is_link" rel="nofollow"></a>
+  <ul class="clocks_container">
+    <li>
+      Porto: <span class="child" id="Porto_z714"></span>
+    </li>
+    <li>
+      London: <span class="child" id="London_z716"></span>
+    </li>
+    <li>
+      Tokyo: <span class="child" id="Tokyo_z444"></span>
+    </li>
+    <li>
+      Houston: <span class="child" id="Houston_z123"></span>
+    </li>
+  </ul>
+
+  <script src="//widget.time.is/t.js"></script>
+  <script>
+      time_is_widget.init({
+        Porto_z714 : {},
+        London_z716 : {},
+        Tokyo_z444 : {},
+        Houston_z123 : {}
+      });
+  </script>
+</body>
+</html>
